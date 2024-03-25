@@ -1,0 +1,11 @@
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Release\BussnessLogic.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Release\BussnessLogic.pdb
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Release\BussinessObject.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Release\DataAccess.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Release\BussinessObject.pdb
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Release\DataAccess.pdb
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Release\BussnessLogic.csproj.AssemblyReference.cache
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Release\BussnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Release\BussnessLogic.csproj.CopyComplete
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Release\BussnessLogic.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Release\BussnessLogic.pdb

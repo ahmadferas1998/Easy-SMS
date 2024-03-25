@@ -1,0 +1,33 @@
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\bin\Debug\BussnessLogic.dll
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\bin\Debug\BussnessLogic.pdb
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\bin\Debug\BussinessObject.dll
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\bin\Debug\DataAccess.dll
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\bin\Debug\BussinessObject.pdb
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\bin\Debug\DataAccess.pdb
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.csprojAssemblyReference.cache
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.csproj.CopyComplete
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.dll
+C:\Users\svcavy\source\repos\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.pdb
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.csprojAssemblyReference.cache
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.dll
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.pdb
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\bin\Debug\BussnessLogic.dll
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\bin\Debug\BussnessLogic.pdb
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\bin\Debug\BussinessObject.dll
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\bin\Debug\DataAccess.dll
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\bin\Debug\BussinessObject.pdb
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\bin\Debug\DataAccess.pdb
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.csproj.CopyComplete
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Debug\BussnessLogic.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Debug\BussnessLogic.pdb
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Debug\BussinessObject.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Debug\DataAccess.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Debug\BussinessObject.pdb
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\bin\Debug\DataAccess.pdb
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.csproj.AssemblyReference.cache
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.csproj.CopyComplete
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussnessLogic\obj\Debug\BussnessLogic.pdb

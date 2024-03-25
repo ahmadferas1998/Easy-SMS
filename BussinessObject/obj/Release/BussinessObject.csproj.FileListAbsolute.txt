@@ -1,0 +1,6 @@
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\bin\Release\BussinessObject.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\bin\Release\BussinessObject.pdb
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\obj\Release\BussinessObject.csproj.AssemblyReference.cache
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\obj\Release\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\obj\Release\BussinessObject.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\obj\Release\BussinessObject.pdb

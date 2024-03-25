@@ -1,0 +1,56 @@
+﻿ 
+
+
+body {
+
+    font-family :Arial sans-serif;
+    font-size :14px;
+   
+
+}
+.div1 
+
+{
+    min-height:80px;
+}
+
+
+
+.grid
+{
+    margin-top:15px;
+}
+
+.slider2
+{
+    margin-top:50px;
+}
+.slider {
+    background-color: #2e6da4;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px;
+   
+}
+
+
+
+
+
+#ph {
+
+    text-align:center;
+    font-size:14px;
+    font-weight:bold;
+}
+#col1 {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#cont_margin
+{
+    margin-top:50px;
+
+}

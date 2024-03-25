@@ -1,0 +1,17 @@
+C:\Users\svcavy\source\repos\WebApplication6\BussinessObject\bin\Debug\BussinessObject.dll
+C:\Users\svcavy\source\repos\WebApplication6\BussinessObject\bin\Debug\BussinessObject.pdb
+C:\Users\svcavy\source\repos\WebApplication6\BussinessObject\obj\Debug\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\svcavy\source\repos\WebApplication6\BussinessObject\obj\Debug\BussinessObject.dll
+C:\Users\svcavy\source\repos\WebApplication6\BussinessObject\obj\Debug\BussinessObject.pdb
+C:\Users\svcavy\source\repos\WebApplication6\BussinessObject\obj\Debug\BussinessObject.csprojAssemblyReference.cache
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussinessObject\bin\Debug\BussinessObject.dll
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussinessObject\bin\Debug\BussinessObject.pdb
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussinessObject\obj\Debug\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussinessObject\obj\Debug\BussinessObject.dll
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussinessObject\obj\Debug\BussinessObject.pdb
+C:\Users\afafa\OneDrive\Desktop\New folder\WebApplication6\BussinessObject\obj\Debug\BussinessObject.csprojAssemblyReference.cache
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\bin\Debug\BussinessObject.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\bin\Debug\BussinessObject.pdb
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\obj\Debug\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\obj\Debug\BussinessObject.dll
+C:\Users\SQ1User\Downloads\WebApplication6\WebApplication6\BussinessObject\obj\Debug\BussinessObject.pdb
